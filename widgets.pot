@@ -266,6 +266,10 @@ msgid "Expires"
 msgstr ""
 
 #: ./src/pat/filemanager/src/components/ContentTable.svelte
+msgid "Creator"
+msgstr ""
+
+#: ./src/pat/filemanager/src/components/ContentTable.svelte
 msgid "Select all on this page"
 msgstr ""
 
@@ -837,11 +841,11 @@ msgstr ""
 msgid "Portlet added"
 msgstr ""
 
-#: ./src/pat/modal/modal.js
+#: ./src/pat/modal/modal--implementation.js
 msgid "There was an error submitting the form."
 msgstr ""
 
-#: ./src/pat/modal/modal.js
+#: ./src/pat/modal/modal--implementation.js
 msgid "There was an error loading modal."
 msgstr ""
 
@@ -849,23 +853,23 @@ msgstr ""
 msgid "You already clicked the submit button. Do you really want to submit this form again?"
 msgstr ""
 
-#: ./src/pat/querystring/querystring.js
+#: ./src/pat/querystring/querystring--implementation.js
 msgid "Preview"
 msgstr ""
 
-#: ./src/pat/querystring/querystring.js
+#: ./src/pat/querystring/querystring--implementation.js
 msgid "Preview of at most 10 items"
 msgstr ""
 
-#: ./src/pat/querystring/querystring.js
+#: ./src/pat/querystring/querystring--implementation.js
 msgid "Sort on"
 msgstr ""
 
-#: ./src/pat/querystring/querystring.js
+#: ./src/pat/querystring/querystring--implementation.js
 msgid "No sorting"
 msgstr ""
 
-#: ./src/pat/querystring/querystring.js
+#: ./src/pat/querystring/querystring--implementation.js
 msgid "Reversed Order"
 msgstr ""
 
@@ -1181,15 +1185,15 @@ msgstr ""
 msgid "Select another destination folder or leave blank to add files to the current location."
 msgstr ""
 
-#: ./src/pat/upload/upload.js
+#: ./src/pat/upload/upload--implementation.js
 msgid "The file transfer failed"
 msgstr ""
 
-#: ./src/pat/upload/upload.js
+#: ./src/pat/upload/upload--implementation.js
 msgid "Error uploading with TUS resumable uploads"
 msgstr ""
 
-#: ./src/pat/upload/upload.js
+#: ./src/pat/upload/upload--implementation.js
 msgid "uploading..."
 msgstr ""
 

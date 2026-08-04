@@ -32,7 +32,14 @@
     // called.
     // eslint-disable-next-line no-unused-vars
     function _i18nColumnLabels() {
-        return [_t("Type"), _t("Modified"), _t("Created"), _t("Published"), _t("Expires")];
+        return [
+            _t("Type"),
+            _t("Modified"),
+            _t("Created"),
+            _t("Published"),
+            _t("Expires"),
+            _t("Creator"),
+        ];
     }
 
     function sortIndicator(column) {
